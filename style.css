@@ -1,0 +1,34 @@
+body {
+    background-color: #c7e9fb;
+    background-image: linear-gradient(315deg, #c7e9fb 0%, #e61d8c 74%);
+    
+}
+#heading {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+#all_Objects {
+    font-size: 18px;
+    color:white;
+}
+
+p {
+    font-size: 20px;
+    color: maroon;
+    font-weight:200;
+}
+
+.final_result {
+    font-size: 25px;
+    color:mediumvioletred;
+}
+
+#camera {
+    border: 2px dashed;
+    height: 350px;
+    width: 400px;
+    border-color:whitesmoke;
+}
